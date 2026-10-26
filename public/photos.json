@@ -1,0 +1,608 @@
+{
+  "경복궁": {
+    "name": "경복궁",
+    "source": "https://korean.visitseoul.net/attractions/경복궁/KOP000072",
+    "image": "https://korean.visitseoul.net/data/POST/20171219//201712191648382511.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-0.jpg"
+  },
+  "남산서울타워": {
+    "name": "남산서울타워",
+    "source": "https://korean.visitseoul.net/attractions/남산서울타워/KOP000036",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251107/1107103249954-e0775670afa4411b9b20d8ce76e15e71.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-1.jpg"
+  },
+  "서울 한양도성": {
+    "name": "서울 한양도성",
+    "source": "https://korean.visitseoul.net/attractions/서울-한양도성/KOP000090",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250623/0623154711531-5a46e99e766a4ceaa4f82e5f27409545.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-2.jpg"
+  },
+  "북촌한옥마을": {
+    "name": "북촌한옥마을",
+    "source": "https://korean.visitseoul.net/attractions/북촌한옥마을/KOP000261",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251108/1108205936256-276c3223449c44fe98b221988fabeccc.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-3.jpg"
+  },
+  "서울시립미술관 (서소문본관)": {
+    "name": "서울시립미술관 (서소문본관)",
+    "source": "https://korean.visitseoul.net/attractions/서울시립미술관/KOP001525",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20261012/1012093820022-996777e3b9024559bd0b4cb52d19f95d.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-4.jpg"
+  },
+  "서대문형무소역사관": {
+    "name": "서대문형무소역사관",
+    "source": "https://korean.visitseoul.net/attractions/서대문형무소역사관/KOP001831",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20240913/0913163047364-1e28189fd35a4fe8b4bdfa225b9124e0.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-5.jpg"
+  },
+  "창덕궁": {
+    "name": "창덕궁",
+    "source": "https://korean.visitseoul.net/attractions/창덕궁/KOP000295",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250806/0806131403985-7415285a8131470abdf8b8307043529b.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-6.jpg"
+  },
+  "국립중앙박물관": {
+    "name": "국립중앙박물관",
+    "source": "https://korean.visitseoul.net/attractions/국립중앙박물관/KOP000433",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20241014/1014162108618-e5db82ae1d584937adea42ee5e834cef.png",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-7.jpg"
+  },
+  "동대문디자인플라자 (DDP)": {
+    "name": "동대문디자인플라자 (DDP)",
+    "source": "https://korean.visitseoul.net/attractions/Dongdaemun-Design-Plaza-kr/KOP024679",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20241007/1007113240585-c8f1b740bf8a45d6bf02634911e4d0ee.png",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-8.jpg"
+  },
+  "광화문광장": {
+    "name": "광화문광장",
+    "source": "https://korean.visitseoul.net/attractions/광화문광장/KOP001899",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251107/1107160447480-115a294cb7674dc0b4d2756adac52ca8.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-9.jpg"
+  },
+  "창경궁": {
+    "name": "창경궁",
+    "source": "https://korean.visitseoul.net/attractions/창경궁/KOP000297",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250805/0805162709094-6f636782cae24bc8aaacbd384ad73e8a.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-10.jpg"
+  },
+  "덕수궁": {
+    "name": "덕수궁",
+    "source": "https://korean.visitseoul.net/attractions/덕수궁/KOP002046",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250915/0915101003939-64d4acc65ce84efdadaad8bc32abeddd.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-11.jpg"
+  },
+  "보신각(상설타종행사)": {
+    "name": "보신각(상설타종행사)",
+    "source": "https://korean.visitseoul.net/attractions/보신각상설타종행사/KOP001904",
+    "image": "https://korean.visitseoul.net/data/POST/20211217//202112171442573191",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-12.jpg"
+  },
+  "서울역사박물관": {
+    "name": "서울역사박물관",
+    "source": "https://korean.visitseoul.net/attractions/서울역사박물관/KOP002722",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20241024/1024124722057-92244d9ed5304a8ab634db7397d4475c.png",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-13.jpg"
+  },
+  "서대문자연사박물관": {
+    "name": "서대문자연사박물관",
+    "source": "https://korean.visitseoul.net/attractions/서대문자연사박물관/KOP002613",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250426/0426221722743-1d6984dfc0f841989ae0d4eea45c0c5d.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-14.jpg"
+  },
+  "서울도서관 (옛 서울시청사)": {
+    "name": "서울도서관 (옛 서울시청사)",
+    "source": "https://korean.visitseoul.net/attractions/서울도서관-옛-서울시청사-KR/KOP010231",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250917/0917150912497-2d37cacbf09044a09238fd931affe200.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-15.jpg"
+  },
+  "경희궁": {
+    "name": "경희궁",
+    "source": "https://korean.visitseoul.net/attractions/경희궁/KOP001159",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250807/0807112850599-3cc82e41203d4a8f8218da2711a318e4.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-16.jpg"
+  },
+  "반포대교 야경": {
+    "name": "반포대교 야경",
+    "source": "https://korean.visitseoul.net/attractions/반포대교-야경/KOP016325",
+    "image": "https://korean.visitseoul.net/data/POST/20210701//202107011502143971",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-17.jpg"
+  },
+  "국립항공박물관": {
+    "name": "국립항공박물관",
+    "source": "https://korean.visitseoul.net/attractions/국립항공박물관/KOP038021",
+    "image": "https://korean.visitseoul.net/data/POST/20210712//202107121034342511",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-18.jpg"
+  },
+  "서울공예박물관": {
+    "name": "서울공예박물관",
+    "source": "https://korean.visitseoul.net/attractions/서울공예박물관/KOP038092",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250623/0623163353046-57ceb80d1f9e45038e7093ab196105bf.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-19.jpg"
+  },
+  "서울로봇인공지능과학관(RAIM)": {
+    "name": "서울로봇인공지능과학관(RAIM)",
+    "source": "https://korean.visitseoul.net/attractions/RAIM/KOPb3chj1",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250618/0618161257631-0dfdc0c8f3164b17ba322e74d2c4eca6.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-20.jpg"
+  },
+  "서울시립과학관": {
+    "name": "서울시립과학관",
+    "source": "https://korean.visitseoul.net/attractions/SeoulScienceMuseum/KOPn1ua1r",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20230913/0913142251128-7be9ef029e384c2ab3412d17eaa7edad.png",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-21.jpg"
+  },
+  "서울생활사박물관": {
+    "name": "서울생활사박물관",
+    "source": "https://korean.visitseoul.net/attractions/서울생활사박물관-/KOP038243",
+    "image": "https://korean.visitseoul.net/data/POST/20210727//202107271501188401",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-22.jpg"
+  },
+  "하늘공원": {
+    "name": "하늘공원",
+    "source": "https://korean.visitseoul.net/nature/하늘공원/KOP003830",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251106/1106125909506-75b478e672684304aeea5e394b05c550.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-23.jpg"
+  },
+  "청계천": {
+    "name": "청계천",
+    "source": "https://korean.visitseoul.net/nature/청계천/KOP000034",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251109/1109212912247-314a6237b63c45198d480aa6925452c2.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-24.jpg"
+  },
+  "서울 둘레길 코스 안내": {
+    "name": "서울 둘레길 코스 안내",
+    "source": "https://korean.visitseoul.net/nature/서울-둘레길-코스-안내/KOP015873",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20240524/0524115448153-3293f2121a514ff0b77e8d21b8096d7a.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-25.jpg",
+    "mediaType": "map",
+    "caption": "서울둘레길 코스 안내 지도"
+  },
+  "서울숲": {
+    "name": "서울숲",
+    "source": "https://korean.visitseoul.net/nature/서울숲/KOP001838",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250505/0505091734128-d1a91e8cb54347f490c10ea7b5eefe48.png",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-26.jpg"
+  },
+  "서울식물원": {
+    "name": "서울식물원",
+    "source": "https://korean.visitseoul.net/nature/서울식물원/KOP027397",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250501/0501235602562-7898022dbf774411881f45a3f49e3250.png",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-27.jpg"
+  },
+  "올림픽공원": {
+    "name": "올림픽공원",
+    "source": "https://korean.visitseoul.net/nature/올림픽공원/KOP002139",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251202/1202203556222-2646763b7c9d479cbb26fa953c3af34b.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-28.jpg"
+  },
+  "어린이대공원": {
+    "name": "어린이대공원",
+    "source": "https://korean.visitseoul.net/nature/어린이대공원/KOP001852",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251202/1202201420368-badf8a7db5974344b981fecbf795c32c.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-29.jpg"
+  },
+  "매헌시민의 숲": {
+    "name": "매헌시민의 숲",
+    "source": "https://korean.visitseoul.net/nature/양재시민의숲/KOP002156",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20240429/0429161000412-01fb9ab533d24a949b8b875605627777.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-30.jpg"
+  },
+  "여의도 한강공원": {
+    "name": "여의도 한강공원",
+    "source": "https://korean.visitseoul.net/nature/여의도-한강공원소녀시대숲/KOP012993",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250427/0427235013689-8e2343cfa61e4f10b58af98da1473f0e.png",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-31.jpg"
+  },
+  "북서울꿈의숲": {
+    "name": "북서울꿈의숲",
+    "source": "https://korean.visitseoul.net/nature/북서울-꿈의-숲/KOP004820",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251027/1027212738954-fe74d4a3f2404323b81087ede077d1d5.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-32.jpg"
+  },
+  "보라매공원": {
+    "name": "보라매공원",
+    "source": "https://korean.visitseoul.net/nature/보라매공원/KOP002189",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251215/1215233359408-6c05f34128f64fbeb8c4f8b72a4093e2.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-33.jpg"
+  },
+  "잠원 한강공원": {
+    "name": "잠원 한강공원",
+    "source": "https://korean.visitseoul.net/nature/잠원-한강공원/KOP002909",
+    "image": "https://korean.visitseoul.net/data/POST/20190614//201906141721144581",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-34.jpg"
+  },
+  "이촌 한강공원": {
+    "name": "이촌 한강공원",
+    "source": "https://korean.visitseoul.net/nature/이촌-한강공원/KOP003617",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251212/1212003244949-ca8927039fe945db8edfaf9aa46ddf3a.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-35.jpg"
+  },
+  "월드컵공원": {
+    "name": "월드컵공원",
+    "source": "https://korean.visitseoul.net/nature/월드컵공원/KOP002116",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250919/0919115809479-8165805d49ef45fda636c082b0455aa6.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-36.jpg"
+  },
+  "망우리공원": {
+    "name": "망우리공원",
+    "source": "https://korean.visitseoul.net/nature/망우리공원/KOP002100",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20240911/0911123523714-8a22b56783f84db38d3ca6c762d877da.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-37.jpg"
+  },
+  "푸른수목원": {
+    "name": "푸른수목원",
+    "source": "https://korean.visitseoul.net/nature/푸른수목원/KOP029796",
+    "image": "https://korean.visitseoul.net/data/POST/20190614//201906141113462821",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-38.jpg"
+  },
+  "뚝섬한강공원": {
+    "name": "뚝섬한강공원",
+    "source": "https://korean.visitseoul.net/nature/TtukseomHangngRiverpark/KOPbdyynw",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20230622/0622144358672-856b573295024a89931037cb99d14686.png",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-39.jpg"
+  },
+  "용산가족공원": {
+    "name": "용산가족공원",
+    "source": "https://korean.visitseoul.net/nature/용산가족공원/KOP001306",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250615/0615230130909-fe472f78fe5448f19fa75f7253212419.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-40.jpg"
+  },
+  "인사동길": {
+    "name": "인사동길",
+    "source": "https://korean.visitseoul.net/shopping/인사동길/KOP000080",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251202/1202210108318-ac58d614d08a4606aabdc264b4bd667c.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-41.jpg"
+  },
+  "남대문시장": {
+    "name": "남대문시장",
+    "source": "https://korean.visitseoul.net/shopping/남대문시장/KOP000085",
+    "image": "https://korean.visitseoul.net/data/POST/20210722//202107221650593221",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-42.jpg"
+  },
+  "광장시장": {
+    "name": "광장시장",
+    "source": "https://korean.visitseoul.net/shopping/광장시장/KOP000286",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251107/1107123641629-fede6f217bd843c2b17ea3075ee42406.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-43.jpg"
+  },
+  "이태원 거리": {
+    "name": "이태원 거리",
+    "source": "https://korean.visitseoul.net/shopping/이태원-거리/KOP002077",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251216/1216011236508-c0ac7f8b442e42dc8ca560d062bfebee.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-44.jpg"
+  },
+  "노량진 수산시장": {
+    "name": "노량진 수산시장",
+    "source": "https://korean.visitseoul.net/shopping/노량진-수산시장/KOP009505",
+    "image": "https://korean.visitseoul.net/data/POST/20190503//201905031441034031",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-45.jpg"
+  },
+  "잠실야구장": {
+    "name": "잠실야구장",
+    "source": "https://korean.visitseoul.net/entertainment/잠실야구장/KOP002642",
+    "image": "https://korean.visitseoul.net/data/POST/20190619//201906191347419951",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-46.jpg"
+  },
+  "서울월드컵경기장": {
+    "name": "서울월드컵경기장",
+    "source": "https://korean.visitseoul.net/entertainment/서울월드컵경기장/KOP002101",
+    "image": "https://korean.visitseoul.net/data/POST/20180904//201809041647262721",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-47.jpg"
+  },
+  "여의도 한강공원 수영장": {
+    "name": "여의도 한강공원 수영장",
+    "source": "https://korean.visitseoul.net/entertainment/여의도-한강공원-수영장/KOP001913",
+    "image": "https://korean.visitseoul.net/data/POST/20170927//201709271020010971",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-48.jpg"
+  },
+  "국립극장": {
+    "name": "국립극장",
+    "source": "https://korean.visitseoul.net/entertainment/국립극장/KOP002971",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250915/0915094556319-bf7f9e1df8e94c3d8b0e821080b69512.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-49.jpg"
+  },
+  "서울새활용플라자": {
+    "name": "서울새활용플라자",
+    "source": "https://korean.visitseoul.net/entertainment/seoulupcycling/KOP023518",
+    "image": "https://korean.visitseoul.net/data/POST/20211125//202111251118278641",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-50.jpg"
+  },
+  "서울에너지드림센터": {
+    "name": "서울에너지드림센터",
+    "source": "https://korean.visitseoul.net/entertainment/서울에너지드림센터/KOP011622",
+    "image": "https://korean.visitseoul.net/data/POST/20190805//201908051417210721",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-51.jpg"
+  },
+  "국립국악원": {
+    "name": "국립국악원",
+    "source": "https://korean.visitseoul.net/entertainment/국립국악원/KOP006225",
+    "image": "https://korean.visitseoul.net/data/POST/20190808//201908081741529251",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-52.jpg"
+  },
+  "서울돈화문국악당": {
+    "name": "서울돈화문국악당",
+    "source": "https://korean.visitseoul.net/entertainment/Seoul-Donhwamun-Traditional-Theater-kr/KOP024596",
+    "image": "https://korean.visitseoul.net/data/POST/20180213//201802131322442881",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-53.jpg"
+  },
+  "N서울타워": {
+    "name": "남산서울타워",
+    "source": "https://korean.visitseoul.net/attractions/남산서울타워/KOP000036",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251107/1107103249954-e0775670afa4411b9b20d8ce76e15e71.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-1.jpg"
+  },
+  "DDP": {
+    "name": "동대문디자인플라자 (DDP)",
+    "source": "https://korean.visitseoul.net/attractions/Dongdaemun-Design-Plaza-kr/KOP024679",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20241007/1007113240585-c8f1b740bf8a45d6bf02634911e4d0ee.png",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-8.jpg"
+  },
+  "보신각": {
+    "name": "보신각(상설타종행사)",
+    "source": "https://korean.visitseoul.net/attractions/보신각상설타종행사/KOP001904",
+    "image": "https://korean.visitseoul.net/data/POST/20211217//202112171442573191",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-12.jpg"
+  },
+  "북촌": {
+    "name": "북촌한옥마을",
+    "source": "https://korean.visitseoul.net/attractions/북촌한옥마을/KOP000261",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251108/1108205936256-276c3223449c44fe98b221988fabeccc.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-3.jpg"
+  },
+  "서울시립미술관": {
+    "name": "서울시립미술관 (서소문본관)",
+    "source": "https://korean.visitseoul.net/attractions/서울시립미술관/KOP001525",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20261012/1012093820022-996777e3b9024559bd0b4cb52d19f95d.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-4.jpg"
+  },
+  "서울로봇인공지능과학관": {
+    "name": "서울로봇인공지능과학관(RAIM)",
+    "source": "https://korean.visitseoul.net/attractions/RAIM/KOPb3chj1",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250618/0618161257631-0dfdc0c8f3164b17ba322e74d2c4eca6.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-20.jpg"
+  },
+  "반포한강공원": {
+    "name": "반포대교 야경",
+    "source": "https://korean.visitseoul.net/attractions/반포대교-야경/KOP016325",
+    "image": "https://korean.visitseoul.net/data/POST/20210701//202107011502143971",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-17.jpg"
+  },
+  "북서울 꿈의숲": {
+    "name": "북서울꿈의숲",
+    "source": "https://korean.visitseoul.net/nature/북서울-꿈의-숲/KOP004820",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251027/1027212738954-fe74d4a3f2404323b81087ede077d1d5.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-32.jpg"
+  },
+  "매헌시민의숲": {
+    "name": "매헌시민의 숲",
+    "source": "https://korean.visitseoul.net/nature/양재시민의숲/KOP002156",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20240429/0429161000412-01fb9ab533d24a949b8b875605627777.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-30.jpg"
+  },
+  "망우역사문화공원": {
+    "name": "망우리공원",
+    "source": "https://korean.visitseoul.net/nature/망우리공원/KOP002100",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20240911/0911123523714-8a22b56783f84db38d3ca6c762d877da.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-37.jpg"
+  },
+  "어린이 대공원": {
+    "name": "어린이대공원",
+    "source": "https://korean.visitseoul.net/nature/어린이대공원/KOP001852",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251202/1202201420368-badf8a7db5974344b981fecbf795c32c.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-29.jpg"
+  },
+  "인사동": {
+    "name": "인사동길",
+    "source": "https://korean.visitseoul.net/shopping/인사동길/KOP000080",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251202/1202210108318-ac58d614d08a4606aabdc264b4bd667c.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-41.jpg"
+  },
+  "이태원": {
+    "name": "이태원 거리",
+    "source": "https://korean.visitseoul.net/shopping/이태원-거리/KOP002077",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251216/1216011236508-c0ac7f8b442e42dc8ca560d062bfebee.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-44.jpg"
+  },
+  "서울둘레길": {
+    "name": "서울 둘레길 코스 안내",
+    "source": "https://korean.visitseoul.net/nature/서울-둘레길-코스-안내/KOP015873",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20240524/0524115448153-3293f2121a514ff0b77e8d21b8096d7a.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-25.jpg",
+    "mediaType": "map",
+    "caption": "서울둘레길 코스 안내 지도"
+  },
+  "서울도서관": {
+    "name": "서울도서관 (옛 서울시청사)",
+    "source": "https://korean.visitseoul.net/attractions/서울도서관-옛-서울시청사-KR/KOP010231",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250917/0917150912497-2d37cacbf09044a09238fd931affe200.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-15.jpg"
+  },
+  "한양도성": {
+    "name": "서울 한양도성",
+    "source": "https://korean.visitseoul.net/attractions/서울-한양도성/KOP000090",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250623/0623154711531-5a46e99e766a4ceaa4f82e5f27409545.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-2.jpg"
+  },
+  "반포 달빛 무지개 분수": {
+    "name": "반포대교 야경",
+    "source": "https://korean.visitseoul.net/attractions/반포대교-야경/KOP016325",
+    "image": "https://korean.visitseoul.net/data/POST/20210701//202107011502143971",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-17.jpg"
+  },
+  "여의도한강공원": {
+    "name": "여의도 한강공원",
+    "source": "https://korean.visitseoul.net/nature/여의도-한강공원소녀시대숲/KOP012993",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20250427/0427235013689-8e2343cfa61e4f10b58af98da1473f0e.png",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-31.jpg"
+  },
+  "잠원한강공원": {
+    "name": "잠원 한강공원",
+    "source": "https://korean.visitseoul.net/nature/잠원-한강공원/KOP002909",
+    "image": "https://korean.visitseoul.net/data/POST/20190614//201906141721144581",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-34.jpg"
+  },
+  "이촌한강공원": {
+    "name": "이촌 한강공원",
+    "source": "https://korean.visitseoul.net/nature/이촌-한강공원/KOP003617",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251212/1212003244949-ca8927039fe945db8edfaf9aa46ddf3a.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-35.jpg"
+  },
+  "노량진수산시장": {
+    "name": "노량진 수산시장",
+    "source": "https://korean.visitseoul.net/shopping/노량진-수산시장/KOP009505",
+    "image": "https://korean.visitseoul.net/data/POST/20190503//201905031441034031",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-45.jpg"
+  },
+  "한강 불빛공연 드론라이트쇼": {
+    "name": "한강 불빛공연 드론라이트쇼",
+    "path": "assets/event-0.jpg",
+    "image": "https://cdn.prod.website-files.com/6611339a1f4ccbeea67f9e94/661e119632b08d84fdcb4d61_AL0I5404.webp",
+    "source": "https://www.seouldroneshow.com/en/home",
+    "credit": "서울 한강 드론라이트쇼 공식 누리집"
+  },
+  "난지캠핑장": {
+    "name": "난지캠핑장",
+    "path": "assets/event-1.jpg",
+    "image": "https://mediahub.seoul.go.kr/uploads/mediahub/2022/03/GlrXDCTVqYWvyHPOXfUJEfZLhPizDrhz.jpg",
+    "source": "https://mediahub.seoul.go.kr/archives/2004005",
+    "credit": "서울시 내 손안에 서울"
+  },
+  "서울빛초롱축제": {
+    "name": "서울빛초롱축제",
+    "path": "assets/event-2.jpg",
+    "image": "https://mediahub.seoul.go.kr/uploads/mediahub/2025/12/QQZRytxHzttwcWTCKuJeUfsNUIPpVSsW.jpg",
+    "source": "https://mediahub.seoul.go.kr/archives/2016508",
+    "credit": "서울시 내 손안에 서울 · ©권수진"
+  },
+  "고궁 한복 체험": {
+    "name": "고궁 한복 체험",
+    "path": "assets/event-3.jpg",
+    "image": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/10/rLkDgAZkUrRIsLYWQYVGAlqmerJmPyUQ.png",
+    "source": "https://mediahub.seoul.go.kr/archives/2019650",
+    "credit": "서울시 내 손안에 서울 · ©양정화"
+  },
+  "경복궁 수문장 교대의식": {
+    "name": "경복궁 수문장 교대의식",
+    "path": "assets/event-4.jpg",
+    "image": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/10/PXOnHbREQGGJPDHdTGlVmIzmHELUCSnQ.png",
+    "source": "https://mediahub.seoul.go.kr/archives/2019650",
+    "credit": "서울시 내 손안에 서울 · ©양정화"
+  },
+  "홍대": {
+    "name": "홍대",
+    "path": "assets/additional-0.jpg",
+    "image": "https://mediahub.seoul.go.kr/uploads/mediahub/2024/09/rVhaGQRruRWasBZOfhmiJzXZCHhTAhrw.jpg",
+    "source": "https://mediahub.seoul.go.kr/archives/2012146",
+    "credit": "서울시 내 손안에 서울 · ©김도연"
+  },
+  "신촌": {
+    "name": "신촌",
+    "path": "assets/additional-1.jpg",
+    "image": "https://mediahub.seoul.go.kr/wp-content/uploads/2019/07/429c92c4f526277e4fcd2bd20ddb9e40.jpg",
+    "source": "https://mediahub.seoul.go.kr/archives/1241318",
+    "credit": "서울시 내 손안에 서울"
+  },
+  "남산 봉수대 봉화의식": {
+    "name": "남산 봉수대 봉화의식",
+    "path": "assets/additional-2.jpg",
+    "image": "https://mediahub.seoul.go.kr/uploads/mediahub/2022/11/ldOcjlxtrjgvbJHFgFVvdJvPshguLuEw.jpg",
+    "source": "https://mediahub.seoul.go.kr/archives/2006265",
+    "credit": "서울시 내 손안에 서울"
+  },
+  "보신각 시민 상설 타종행사": {
+    "name": "보신각 시민 상설 타종행사",
+    "path": "assets/additional-3.jpg",
+    "image": "https://mediahub.seoul.go.kr/uploads/mediahub/2022/11/BiWXfsLKEjSTONAsAPZacKHNBsYTlYaO.jpg",
+    "source": "https://mediahub.seoul.go.kr/archives/2006265",
+    "credit": "서울시 내 손안에 서울"
+  },
+  "한복 입고 고궁 체험": {
+    "name": "고궁 한복 체험",
+    "path": "assets/event-3.jpg",
+    "image": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/10/rLkDgAZkUrRIsLYWQYVGAlqmerJmPyUQ.png",
+    "source": "https://mediahub.seoul.go.kr/archives/2019650",
+    "credit": "서울시 내 손안에 서울 · ©양정화"
+  },
+  "서울어린이대공원": {
+    "name": "어린이대공원",
+    "source": "https://korean.visitseoul.net/nature/어린이대공원/KOP001852",
+    "image": "https://korean.visitseoul.net/data/MEDIA/20251202/1202201420368-badf8a7db5974344b981fecbf795c32c.jpg",
+    "credit": "서울관광재단 Visit Seoul",
+    "path": "assets/photo-29.jpg"
+  }
+}
